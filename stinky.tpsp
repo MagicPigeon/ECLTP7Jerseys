@@ -1,0 +1,31 @@
+{
+
+    "info" : "This is a soundpack for the game TagPro, to use with the TagPro SoundPacks userscript",
+    
+    
+    "name"          :   "STINKy",
+    "author"        :   "TagPro+",
+    "description"   :   "uh oh",
+
+    "sounds" : {
+    
+        "drop"          : {"source" : "https://voca.ro/1bfZOJT4YrVM",
+                           "volume" : 1 },
+        "friendlyalert" : {"source" : "https://voca.ro/192EhhZpSHbn",
+                           "volume" : 1 },
+        "friendlydrop"  : {"source" : "https://voca.ro/1bfZOJT4YrVM",
+                           "volume" : 1 },
+        "countdown"     : {"source" : "https://voca.ro/17Qaoh1L09JH",
+                           "volume" : 1 },
+        "cheering"      : {"source" : "https://voca.ro/15IwqLIDhGCf",
+                           "volume" : 1 },
+        "alert"         : {"source" : "https://voca.ro/192EhhZpSHbn",
+                           "volume" : 1 },
+        "go"            : {"source" : "https://voca.ro/1eF1OJbTdXMv",
+                           "volume" : 1 },
+        "sigh"          : {"source" : "https://voca.ro/1gW3UwD0E9zc",
+                           "volume" : 1 }
+
+    
+    }
+}
